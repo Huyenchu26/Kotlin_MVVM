@@ -1,3 +1,0 @@
-package com.example.mvvmcleanarchitecture.presentation.base.viewmodel
-
-interface IViewModel

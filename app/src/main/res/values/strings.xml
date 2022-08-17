@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MvvmCleanArchitecture</string>
+    <string name="app_name">mvvm</string>
 
 
     <string name="main_nav_home">Home</string>
